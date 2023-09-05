@@ -12,6 +12,6 @@ public class Dice {
     }
 
     public int cast() {
-        return r.nextInt(n) + 2;
+        return r.nextInt(n) + 10;
     }
 }
